@@ -16,7 +16,7 @@ Selenium (for scraping), gTTS (to get google's voice), and playsound.
 - VirtualEnv 20.4.7
 - All the other dependencies are already installed in venv folder
 
-###Considerations
+###Considerations:
 I've been learning about Selenium recently and im very happy about
 this framework. There are a lot of incredible things you can do
 with it. 
