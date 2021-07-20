@@ -17,7 +17,7 @@ Selenium (for scraping), gTTS (to get google's voice), and playsound.
 
 - Python 3.9.2
 - VirtualEnv 20.4.7
-- All the other dependencies are already installed in venv folder
+- All the other dependencies are already written in requirement.txt
 
 ### How to use?
 
