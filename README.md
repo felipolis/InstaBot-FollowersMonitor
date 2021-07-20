@@ -23,7 +23,7 @@ Selenium (for scraping), gTTS (to get google's voice), and playsound.
 
 - First of all, you need python3. [Click Here](https://www.python.org),
   download and install it.
-- Secondly, you need to install all the packages i've used. On your project directore, open your command prompt and type:
+- Secondly, you need to install all the packages i've used. On your project directory, open your command prompt and type:
   `pip install requirements.txt`
 - Now you can run the program: `python bot.py`
 
