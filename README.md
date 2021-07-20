@@ -3,10 +3,10 @@
 ### About:
 
 This bot basically monitors the behaviour of your followers.
-Let's say someone starts following you. It happens that the bot
+Let's say someone starts following you. It happens that this bot
 speaks who has just started following you. In the other hand,
-if someone just stops following you, the bot will speak who was.
-How many people start or stop following you doesn't matter. The
+if someone just stops following you, this bot will speak who was it.
+How many people start or stop following you doesn't matter. This
 bot can know the exactly number of it and say all the names.
 
 ### What did I use?
@@ -23,10 +23,8 @@ Selenium (for scraping), gTTS (to get google's voice), and playsound.
 
 - First of all, you need python3. [Click Here](https://www.python.org),
   download and install it.
-- Secondly, you need to install VirtualEnv on your command prompt:
-  `pip install virtualenv`
-- Then, you have to activate your virtualenv. Being in the bot's directory,
-  open yout command prompt an type: `. .\venv\Scripts\activate`
+- Secondly, you need to install all the packages i've used. On your project directore, open your command prompt and type:
+  `pip install requirements.txt`
 - Now you can run the program: `python bot.py`
 
 ### Considerations:
